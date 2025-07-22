@@ -52,7 +52,7 @@ All datasets are used strictly for educational and research purposes. Please ens
 **Sidagam Bhargava Harish**  
 AI/ML Enthusiast | Web Developer  
 📧 harishsidagam.s8@gmail.com 
-🔗 [GitHub Profile](https://github.com/HarishSidagam8)
+🔗 GitHub Profile: https://github.com/HarishSidagam8
 
 ---
 
